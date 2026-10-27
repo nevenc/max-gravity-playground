@@ -1,0 +1,12 @@
+{
+  "name": "max-gravity-playground",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Max's gravity sandbox and spaceship rescue game",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "test": "node tests/flight.cjs",
+    "start": "node scripts/serve.cjs"
+  },
+  "engines": { "node": ">=18" }
+}
