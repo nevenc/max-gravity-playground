@@ -12,7 +12,7 @@ npm start
 
 Open http://localhost:4173. You can also open `dist/index.html` directly after building.
 
-Edit the app in `src/`, then rebuild. Generated files are in `dist/`.
+Edit the app in `src/`, then rebuild. Generated files are in `dist/`. The footer shows the app version and Git commit captured at build time, with “modified” for uncommitted changes. Builds without Git metadata show “unknown”.
 
 ## Flight controls
 
